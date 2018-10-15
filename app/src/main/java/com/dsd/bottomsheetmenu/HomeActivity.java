@@ -250,7 +250,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
             Util.setColorForMenuItemsText(context, R.id.action_option_eight, getString(R.string.option_eight), ContextCompat.getColor(context, R.color.colorAccent));
         } else {
             Util.setColorForMenuItemsText(context, R.id.action_option_one, getString(R.string.option_one), ContextCompat.getColor(context, R.color.dusk));
-            Util.setColorForMenuItemsText(context, R.id.action_option_two, getString(R.string.option_three), ContextCompat.getColor(context, R.color.dusk));
+            Util.setColorForMenuItemsText(context, R.id.action_option_two, getString(R.string.option_two), ContextCompat.getColor(context, R.color.dusk));
             Util.setColorForMenuItemsText(context, R.id.action_option_three, getString(R.string.option_three), ContextCompat.getColor(context, R.color.dusk));
             Util.setColorForMenuItemsText(context, R.id.action_option_four, getString(R.string.option_four), ContextCompat.getColor(context, R.color.dusk));
             Util.setColorForMenuItemsText(context, R.id.action_option_five, getString(R.string.option_five), ContextCompat.getColor(context, R.color.dusk));
