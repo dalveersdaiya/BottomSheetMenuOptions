@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="BodySubTitles">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="BodyText">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>

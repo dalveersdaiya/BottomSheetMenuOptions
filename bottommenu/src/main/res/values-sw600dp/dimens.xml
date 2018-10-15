@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_logo_margin_top">100dp</dimen>
+    <dimen name="margin_horizontal">100dp</dimen>
+    <dimen name="edit_text_height">58dp</dimen>
+    <dimen name="checkbox_margin_top">20dp</dimen>          <!-- same used for forgot password-->
+    <dimen name="forgot_margin_vertical">25dp</dimen>
+    <dimen name="forgot_margin_horizontal">30dp</dimen>
+    <dimen name="bottom_bar_icon_text">10sp</dimen>
+
+    <dimen name="profile_first">200dp</dimen>
+    <dimen name="profile_second">170dp</dimen>
+    <dimen name="profileimage_first">130dp</dimen>
+    <dimen name="profileimage_second">120dp</dimen>
+
+    <dimen name="size60">80dp</dimen>
+    <dimen name="size40">54dp</dimen>
+    <dimen name="size80">100dp</dimen>
+    <dimen name="size200">268dp</dimen>
+    <dimen name="calldetail_textsize">15sp</dimen>
+    <dimen name="Appbar_textsize">18sp</dimen>
+
+    <!--Values Past Calls Page sw600-->
+    <dimen name="past_calls_button_textsize">15sp</dimen>
+    <dimen name="past_calls_button_height">35dp</dimen>
+
+    <!--Values My Calls Page-->
+    <dimen name="calldue_textsize">14sp</dimen>
+    <!--Values Add Option Sheet Page sw600-->
+    <dimen name="sizeSmall">18sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="topbar_height">68dp</dimen>
+    <dimen name="topbar_heightsmall">54dp</dimen>
+    <dimen name="imagesize">108dp</dimen>
+    <dimen name="imagesizesmall">40dp</dimen>
+    <dimen name="sizesmall">20dp</dimen>
+    <dimen name="sizesmall_L">28dp</dimen>
+    <dimen name="buttonsizesmall">134dp</dimen>
+    <dimen name="buttonsize">200dp</dimen>
+    <dimen name="plusbuttonsize">80dp</dimen>
+    <dimen name="listview_width">268dp</dimen>
+    <dimen name="homelist_image_background">120dp</dimen>
+
+    <dimen name="listview_width_tab">400dp</dimen>
+    <dimen name="listview_height_tab">300dp</dimen>
+
+
+    <dimen name="createquestion_imagepin">54dp</dimen>
+    <dimen name="navlist_icon">40dp</dimen>
+
+    <dimen name="soapboqs_title_width">84dp</dimen>
+    <dimen name="soapboqs_title_height">26dp</dimen>
+
+    <dimen name="topbar__height">40dp</dimen>
+
+    <dimen name="topbar_plusbutton_width_height">32dp</dimen>
+
+    <dimen name="topbar_navicon_width">20dp</dimen>
+    <dimen name="topbar_navicon_height">12dp</dimen>
+
+    <dimen name="topbar__heightbackground">98dp</dimen>
+    <dimen name="textanswer_margintop">18dp</dimen>
+    <dimen name="textanswer_marginbottom">26dp</dimen>
+    <dimen name="signbutton_margintop">22dp</dimen>
+    <dimen name="textheight">44dp</dimen>
+    <dimen name="margin_top">72dp</dimen>
+    <!--<dimen name="margintop">66dp</dimen>-->
+
+    <dimen name="relativemain">300dp</dimen>
+    <dimen name="decoview">230dp</dimen>
+    <dimen name="relativehalf">150dp</dimen>
+    <dimen name="greenbluecircle">20dp</dimen>
+    <dimen name="textsize">13sp</dimen>
+    <dimen name="marginleftblue">170dp</dimen>
+    <dimen name="marginleftgreen">390dp</dimen>
+
+    <dimen name="tip_radius">1dp</dimen>
+    <dimen name="tip_dimen_width">18dp</dimen>
+    <dimen name="tip_dimen_height">14dp</dimen>
+
+    <dimen name="tip_dimen_height_new">24dp</dimen>
+    <dimen name="bottomsheet_default_sheet_width">446dp</dimen>
+
+    <dimen name="text_size_small_ultra">14sp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="text_size_average">16sp</dimen>
+    <dimen name="text_size_medium">17sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+
+</resources>

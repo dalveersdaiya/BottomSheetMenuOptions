@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_option_one"
+        android:orderInCategory="200"
+        android:title="@string/option_one" />
+
+    <item
+        android:id="@+id/action_option_two"
+        android:orderInCategory="201"
+        android:title="@string/option_two" />
+
+    <item
+        android:id="@+id/action_option_three"
+        android:orderInCategory="202"
+        android:title="@string/option_three" />
+    <item
+        android:id="@+id/action_option_four"
+        android:orderInCategory="203"
+        android:title="@string/option_four" />
+    <item
+        android:id="@+id/action_option_five"
+        android:orderInCategory="204"
+        android:title="@string/option_five"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/action_option_six"
+        android:orderInCategory="205"
+        android:title="@string/option_six" />
+
+    <item
+        android:id="@+id/action_option_seven"
+        android:orderInCategory="206"
+        android:title="@string/option_seven" />
+
+    <item
+        android:id="@+id/action_option_eight"
+        android:orderInCategory="207"
+        android:title="@string/option_eight" />
+
+    <item
+        android:id="@+id/action_close"
+        android:orderInCategory="208"
+        android:title="@string/close" />
+
+
+</menu>
